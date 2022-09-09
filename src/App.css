@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+.lay{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 450px;
+  height: 500px;
+  margin: auto;
+  background-color: white;
+}
+.cent{
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  max-width:550px;
+  width: 450px;
+
+ 
+  
+}
+.user{
+  display: flex;
+  flex-direction: column;
+  gap:20px;
+
+}
+.pass{
+  display: flex;
+}
+.lgbtn{
+  text-decoration: none;
+  padding-bottom: 20px;
+  }
